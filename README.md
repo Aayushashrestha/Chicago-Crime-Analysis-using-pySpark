@@ -1,0 +1,7 @@
+# Chicago-Crime-Analysis-using-pySpark
+
+The software implements a solution that applies artificial intelligence/machine learning to solving the problem: The software includes code that incorporates artificial intelligence and machine learning techniques to address the problem at hand. This may involve using algorithms, models, or other AI/ML methods to analyze data, make predictions, classify information, optimize processes, or perform other tasks relevant to the problem being solved.
+
+The repository contains a complete solution based upon the work described within your report: The repository includes all the necessary files, code, and resources needed to fully implement the solution. It should encompass all the components and functionalities discussed in your report, ensuring that nothing is missing or incomplete. This includes all relevant code files, configuration files, data files, and any other dependencies or assets required for the solution to work as intended.
+
+Upon following all set-up instructions, the solution compiles and executes: The solution should come with clear and comprehensive set-up instructions that guide users on how to properly configure and run the software. Following these instructions should result in a successful compilation and execution of the solution without any missing dependencies, errors, or issues. This ensures that the software is ready for use and can be seamlessly integrated into the intended environment.
